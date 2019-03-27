@@ -1,0 +1,4 @@
+Semua Sorting (Merge , Select , Insert , Bubble)
+Disatuin jadi 1 program "MergeSort.cpp"
+
+Inputnya random sekitar 1 - 100 jadi gak perlu diinput satu-satu
